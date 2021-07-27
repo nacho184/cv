@@ -1,0 +1,155 @@
+
+
+h1 {
+    margin: 50 auto 0 auto;
+    color: #66BFBF;
+    font-size: 80px;
+    font-family: 'Dancing Script', cursive;
+    
+}
+
+h2 {
+    
+    font-size: 30px;
+    color: #66BFBF;
+}
+
+h3 {
+    color: #66BFBF;
+}
+
+a {
+    color: #66BFBF;
+}
+
+hr {
+    margin: 110px auto 110px auto;
+    border-style: dotted none none;
+    border-color: lightgray;
+    border-width:5px;
+    width: 4%;
+  }
+
+
+
+
+body {
+    
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+font-family: 'Merriweather Sans', sans-serif;
+
+}
+
+.subtitle {
+    font-weight: normal;
+}
+
+.img-profile {
+    margin-top: 5%;
+    width: 40%;
+
+}
+
+.profile {
+    margin: 5% auto 5% auto;
+    width: 30%;
+    line-height: 2;
+}
+
+.img-camp{
+    
+    width: 25%;
+    float: left;
+    margin-right: 50px;
+}
+.img-piano{
+    width: 25%;
+    float: right;
+    margin-left: 50px;
+}
+.img-code{
+    width: 25%;
+    float: left;
+    margin-right: 50px;
+}
+
+.attribution {
+    font-size: xx-small;
+    color: grey;
+}
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.skill-row {
+    text-align: left;
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+}
+
+.contact-me {
+    margin: 100px auto 100px auto;
+    line-height: 2.4;
+}
+
+.btn {
+    
+    margin-top: 35%;
+    border-radius: 10px;
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 17px;
+    font-weight: 100;
+    padding: 11px;
+    background-color: #11999E;
+    border: solid #11999E 1px;
+    text-decoration: none;
+    display: inline;
+    cursor: pointer;
+    text-align: center;
+}
+.btn:hover {
+    background: #15d1d8;
+    border: solid #14bec4 1px;
+    
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+
+.bottom-container {
+    padding: 2.5%;
+    background-color: #66BFBF;
+    color: white;
+    line-height: 3;
+    
+}
+
+.footer-link {
+    margin-left: 3%;
+    color: #10898d;
+    text-decoration: none;
+}
+.footer-link:hover {
+    color: white;
+   
+
+    text-decoration: none;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 20%;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 20%;
+    bottom: 300px;
+}
